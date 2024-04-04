@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="aKmchs@C%.r~_a-W0hHO" x="20" y="20"><statement name="HANDLER"><block type="basic_show_icon" id="8/.q@0}4tA%9^,O@q#NJ"><field name="i">IconNames.Happy</field></block></statement></block><block type="device_gesture_event" id="Oz~jWn^Vzr]b!|[EY=nn" x="142" y="197"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="device_show_leds" id="yBF*;qYSw+SjuL|B6E0+"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field></block></statement></block><block type="device_gesture_event" id="bDgdazxZQqex-FDrm?xx" x="506" y="189"><field name="NAME">Gesture.TiltRight</field><statement name="HANDLER"><block type="device_show_leds" id="H_RX1RwMpd6-Z}v[%^y0"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field></block></statement></block><block type="device_gesture_event" id="(3ZI)43:fu~ipw,]Jj)r" x="889" y="195"><field name="NAME">Gesture.ScreenUp</field><statement name="HANDLER"><block type="device_show_leds" id="s|LeXscUJ_QjX;:`)}sO"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # . # . # 
+        . # # # . 
+        . . # . .
+        `</field></block></statement></block><block type="device_gesture_event" id="g}%xnR?:{k|38Q)mlnB9" x="1159" y="195"><field name="NAME">Gesture.ScreenDown</field><statement name="HANDLER"><block type="device_show_leds" id="QD]Y!a.T89B7fWY-!c7B"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block></xml>
